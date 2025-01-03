@@ -17,25 +17,22 @@ The goal of this project is to:
 
 ## 🗂️ Project Structure
 <structure>
-    <folder>📂 data/ - Directory to store scraped data</folder>
-    <folder>📓 notebooks/ - Jupyter notebooks for data processing</folder>
-    <folder>📝 scripts/ - Python scripts for web scraping</folder>
-    <file>📘 HIV_info.ipynb - Main notebook for scraping and analysis</file>
-    <file>📄 requirements.txt - Project dependencies</file>
-    <file>📜 README.md - Project documentation</file>
+    <li> <folder>📓 notebooks/ - Jupyter notebooks for data processing</folder>
+    <li> <folder>📝 scripts/ - Python scripts for web scraping</folder>
+    <li> <file>📘 HIV_info.ipynb - Main notebook for scraping and analysis</file>
+    <li> <file>📜 README.md - Project documentation</file>
 </structure>
 
 ## 🛠️ How to Run the Project
 📋 Prerequisites
 Ensure you have the following installed:
-<li>
-    <item>🐍 Python 3.8+</item>
-    <item>📒 Jupyter Notebook</item>
-    <item>🍲 BeautifulSoup4</item>
-    <item>🌐 Requests</item>
-    <item>🐼 Pandas</item>
-    <item>🧩 Flask (for chatbot deployment)</item>
-</li>
+
+    <li> <item>🐍 Python 3.8+</item>
+    <li> <item>📒 Jupyter Notebook</item>
+    <li> <item>🍲 BeautifulSoup4</item>
+    <li> <item>🌐 Requests</item>
+    <li> <item>🐼 Pandas</item>
+    <li> <item>🧩 Flask (for chatbot deployment)</item>
 
 ## 📥 Installation
 Clone the repository:
