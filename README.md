@@ -16,12 +16,11 @@ The goal of this project is to:
 <li>Continuous updates to ensure the chatbot provides the latest information.
 
 ## 🗂️ Project Structure
-<structure>
+
     <li> <folder>📓 notebooks/ - Jupyter notebooks for data processing</folder>
     <li> <folder>📝 scripts/ - Python scripts for web scraping</folder>
     <li> <file>📘 HIV_info.ipynb - Main notebook for scraping and analysis</file>
     <li> <file>📜 README.md - Project documentation</file>
-</structure>
 
 ## 🛠️ How to Run the Project
 📋 Prerequisites
