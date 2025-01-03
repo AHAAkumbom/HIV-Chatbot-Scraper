@@ -24,6 +24,7 @@ The goal of this project is to:
     <file>📄 requirements.txt - Project dependencies</file>
     <file>📜 README.md - Project documentation</file>
 </structure>
+
 ## 🛠️ How to Run the Project
 📋 Prerequisites
 Ensure you have the following installed:
