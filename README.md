@@ -5,18 +5,16 @@ Welcome to the HIV Educative Chatbot repository! This project leverages web scra
 ## 📌 Project Overview
 
 The goal of this project is to:
-<li>
 <li>🔍 Scrape educative websites for information on HIV.</item>
 <li>📊 Aggregate and organize the data for easy access.</item>
 <li>🤖 Develop a chatbot to assist users by providing accurate and relevant information on HIV prevention, treatment, and general knowledge. </li>
 
 ## 🚀 Features
-<li>
-    Web scraping script to gather HIV-related data.
-    Preprocessing and structuring of scraped data.
-    Integration with chatbot frameworks for user interaction.
-    Continuous updates to ensure the chatbot provides the latest information.
-</li>
+<li>Web scraping script to gather HIV-related data.
+<li>Preprocessing and structuring of scraped data.
+<li>Integration with chatbot frameworks for user interaction.
+<li>Continuous updates to ensure the chatbot provides the latest information.
+
 ## 🗂️ Project Structure
 <structure>
     <folder>📂 data/ - Directory to store scraped data</folder>
